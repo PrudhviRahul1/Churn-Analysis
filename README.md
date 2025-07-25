@@ -52,7 +52,10 @@ The dashboard summarizes churn statistics, customer demographics, service usage,
 
 ## 📷 Dashboard Preview
 
-<img width="876" height="490" alt="image" src="https://github.com/user-attachments/assets/c2b903d2-63a4-4d51-a565-14c2f8c32dd6" />
+<img width="876" height="490" alt="image" src="https://github.com/user-attachments/assets/c2b903d2-63a4-4d51-a565-14c2f8c32dd6" /> <img width="882" height="487" alt="image" src="https://github.com/user-attachments/assets/0b4f6fc1-617c-4a2f-aae8-515ae2bd7a56" />
+
+
+
 
 
 ---
